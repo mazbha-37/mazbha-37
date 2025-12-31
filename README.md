@@ -11,7 +11,7 @@ I’m a Computer Science graduate from BRAC University with a strong interest in
 ####
 ####
 ####
-https://github.com/mazbha-37/mazbha-37/blob/output/github-snake-dark.svg
+![](https://github.com/mazbha-37/mazbha-37/blob/output/github-snake-dark.svg)
 
 ####
 
