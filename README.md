@@ -10,7 +10,7 @@ I’m a Computer Science graduate from BRAC University with a strong interest in
 
 ####
 ####
-![Snake animation](https://raw.githubusercontent.com/mazbha-37/snk/output/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/mazbha-37/snk/manual-run-output/github-contribution-grid-snake.svg
 
 ####
  
