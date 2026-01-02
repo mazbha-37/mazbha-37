@@ -19,8 +19,3 @@ I’m a Computer Science graduate from BRAC University with a strong interest in
  
 
 ####
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mazbha-37&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
