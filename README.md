@@ -20,7 +20,41 @@ I’m a Computer Science graduate from BRAC University with a strong interest in
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mazbha.990) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mazbhaulhaque) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mazbha-ul-haque-604615368) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mazbhaulhaque@gmail.com) 
 
-
+<h2 align="left" style="color:#ffffff;">Top Languages</h2>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazbha-37&layout=compact&theme=tokyonight" />
+  </p>
+  <hr style="border: none; height: 1px; background: #30363d; margin: 25px 0;" />
+  <h2 align="left" style="color:#ffffff;">GitHub Stats</h2>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazbha-37&show_icons=true&locale=en&theme=tokyonight" />
+  </p>
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazbha-37&theme=tokyonight" />
+  </p>
+  <hr style="border: none; height: 1px; background: #30363d; margin: 25px 0;" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2 align="center" style="color:#ffffff;">GitHub Summary</h2>
+  <div align="center">
+    <a href="https://github.com/mazbha-37">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazbha-37&theme=tokyonight" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mazbha-37&theme=tokyonight" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazbha-37&theme=tokyonight" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mazbha-37&theme=tokyonight" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazbha-37&theme=tokyonight" height="180em" />
+    </a>
+  </div>
+  <hr style="border: none; height: 1px; background: #30363d; margin: 25px 0;" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2 align="center" style="color:#ffffff;">Activity Graph</h2>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazbha-37&theme=react-dark"/>
+  </p>
+  <hr style="border: none; height: 1px; background: #30363d; margin: 25px 0;" />
+  <p align="center" style="color:#8b949e;">
+    Thank you for visiting.
+  </p>
+</div>
 ####
 ####
 ####
