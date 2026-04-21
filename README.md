@@ -2,8 +2,11 @@
 I’m a Computer Science graduate from BRAC University with a strong interest in AI/ML, data-driven systems, and applied research. I enjoy building intelligent solutions that combine solid software engineering with modern machine learning techniques.
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&color=58A6FF&lines=AI%2FML+%7C+Computer+Vision+%7C+Image+Processing;Python+%7C+Unix+%7C+Deep+Learning+%7C+Pipelines;Building+scalable+AI+solutions" alt="Typing SVG" />
-  </p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&color=58A6FF&lines=AI%2FML+%7C+Computer+Vision+%7C+Image+Processing;Python+%7C+Unix+%7C+Deep+Learning+%7C+Pipelines;System+Design+%7C+Software+Engineering;Building+scalable+AI+solutions" alt="Typing SVG" />
+</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mazbha-37&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
+</p>
 <p align="center">
     <img src="https://img.shields.io/badge/Open%20Source-Contributor-22c55e?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/AI%2FML-Developer-3b82f6?style=flat&logo=tensorflow&logoColor=white" />
