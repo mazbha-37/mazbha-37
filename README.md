@@ -20,19 +20,11 @@ I'm a Computer Science graduate from BRAC University with a strong interest in A
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mazbha.990) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mazbhaulhaque) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mazbha-ul-haque-604615368) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mazbhaulhaque@gmail.com)
 
-<hr style="border: none; height: 1px; background: #30363d; margin: 25px 0;" />
 
-<h2 align="left" style="color:#ffffff;">Top Languages</h2>
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazbha-37&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <hr style="border: none; height: 1px; background: #30363d; margin: 25px 0;" />
 
-<h2 align="left" style="color:#ffffff;">GitHub Stats</h2>
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazbha-37&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazbha-37&theme=tokyonight" />
 </p>
