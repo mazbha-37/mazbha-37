@@ -24,12 +24,9 @@ I'm a Computer Science graduate from BRAC University with a strong interest in A
 
 
 
-<hr style="border: none; height: 1px; background: #30363d; margin: 25px 0;" />
+
 
 <h2 align="left" style="color:#ffffff;">GitHub Stats</h2>
-<p align="center">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mazbha-37&show_icons=true&theme=tokyonight&v=1" />
-</p>
 <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazbha-37&theme=tokyonight" />
 </p>
