@@ -24,7 +24,7 @@ I'm a Computer Science graduate from BRAC University with a strong interest in A
 
 <h2 align="left" style="color:#ffffff;">Top Languages</h2>
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazbha-37&layout=compact&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mazbha-37&layout=compact&theme=tokyonight" />
 </p>
 
 <hr style="border: none; height: 1px; background: #30363d; margin: 25px 0;" />
