@@ -22,11 +22,17 @@ I'm a Computer Science graduate from BRAC University with a strong interest in A
 
 <hr style="border: none; height: 1px; background: #30363d; margin: 25px 0;" />
 
+<h2 align="left" style="color:#ffffff;">Top Languages</h2>
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazbha-37&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-
-
+<hr style="border: none; height: 1px; background: #30363d; margin: 25px 0;" />
 
 <h2 align="left" style="color:#ffffff;">GitHub Stats</h2>
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazbha-37&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazbha-37&theme=tokyonight" />
 </p>
